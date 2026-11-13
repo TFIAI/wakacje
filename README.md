@@ -1,1 +1,2 @@
-liczy dni do danego eventu
+[liczy dni do danego eventu
+](https://github.com/TFIAI/wakacje/tree/main)
